@@ -2,6 +2,9 @@
 
 A **Sorting Algorithm Visualizer** built to help users understand how different sorting algorithms work through animated visual representations.
 
+##Live preview of the website, click the link below 👇 
+[https://vikram2003-07.github.io/Sorting-Visualizer/](https://vikram2003-07.github.io/Sorting-Visualizer/)
+
 ## 📌 Features
 
 - Supports multiple sorting algorithms:
